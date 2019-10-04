@@ -1,0 +1,5 @@
+ AreaA 500.00 2 AreaB AreaC   
+ AreaB 1000.00 1 AreaC   
+ AreaC 200.00 1 AreaA   
+ AreaF 10.00 1 AreaA   
+ AreaG 100.00 1 AreaA 
